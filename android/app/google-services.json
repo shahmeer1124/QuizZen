@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "679925068848",
+    "project_id": "fir-masterclass-cb3ff",
+    "storage_bucket": "fir-masterclass-cb3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679925068848:android:f61c804bd348fcd41f29f5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_master_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679925068848-m1vukg520ec4qi15rh5thp4r5vkpqhev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_master_class",
+            "certificate_hash": "f194575d25680ba98d683d8003c27fc3cb359ac2"
+          }
+        },
+        {
+          "client_id": "679925068848-glik6scbioqo7s3db7qvcc1tjk9bl9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOsdcF91O-5gTOzOBLedNxrvNIWYecFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679925068848-6d2a47h1skulbaqh193jghtls3rhdfdn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679925068848-8qg5ericju62org5qfis2hclsd90itpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseMasterClass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
